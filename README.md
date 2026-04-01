@@ -71,9 +71,8 @@ Current focus: SCCM HTTPS/PKI hardening · Enterprise Root CA · Certificate aut
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![SCCM](https://img.shields.io/badge/ConfigMgr%2FSCCM-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat-square&logo=microsoft&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=flat-square&logo=windows&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-68217A?style=flat-square&logo=microsoft&logoColor=white)
+
+
 
 ---
 
