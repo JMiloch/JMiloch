@@ -51,11 +51,11 @@ Dry-run mode · Step-by-step execution · Domain auto-detection · Log export
 
 ## 🏗️ Home Lab — M.Lab
 
-Running a structured Hyper-V lab on Windows Server 2022/2025 for testing, learning, and building:
+Running a structured Lab on Windows Server 2022/2025 for testing, learning, and building:
 
 ```
 VLAN 100  →  Identity / Tier 0   (DC01, CA01)
-VLAN 101  →  Services / Tier 1   (SCCM, SQL,DataVault)
+VLAN 101  →  Services / Tier 1   (SCCM, DataVault)
 VLAN 102  →  Print Services
 VLAN 200  →  Clients
 ```
